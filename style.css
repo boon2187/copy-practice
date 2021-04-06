@@ -73,3 +73,8 @@ body {
 .inner-container {
   display: flex;
 }
+
+.left-part, .right-part {
+  width: 50%;
+}
+
