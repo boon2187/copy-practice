@@ -63,6 +63,13 @@ body {
 }
 
 /* ２つめのセクション */
+.feature h2 {
+  text-align: center;
+  padding: 40px;
+  font-size: 40px;
+}
+
+
 .inner-container {
   display: flex;
 }
