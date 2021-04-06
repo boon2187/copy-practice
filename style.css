@@ -61,3 +61,8 @@ body {
   width: 100%;
   height: auto;
 }
+
+/* ２つめのセクション */
+.inner-container {
+  display: flex;
+}
