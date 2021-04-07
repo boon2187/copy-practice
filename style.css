@@ -109,3 +109,13 @@ body {
   color: #fff;
   margin: auto;
 }
+
+
+/* フッターの部分 */
+footer {
+  height: 100px;
+  background-color: #58A9EF;
+  margin-top: 30px;
+  text-align: center;
+}
+
