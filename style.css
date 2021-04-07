@@ -133,3 +133,8 @@ footer h2 {
   color: #fff;
   margin-top: 10px;
 }
+
+/* スマートフォン用に */
+@media screen and (max-width:900px) {
+  
+}
