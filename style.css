@@ -90,3 +90,8 @@ body {
 .right-part h3 {
   font-size: 34px;
 }
+
+.right-part p {
+  margin-top: 24px;
+  font-size: 18px;
+}
