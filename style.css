@@ -109,3 +109,22 @@ body {
   color: #fff;
   margin: auto;
 }
+
+
+/* フッターの部分 */
+footer {
+  height: 100px;
+  background-color: #58A9EF;
+  margin-top: 30px;
+  text-align: center;
+}
+
+footer h2 {
+  color: #fff;
+  padding-top: 20px;
+}
+
+.copy-right {
+  color: #fff;
+  margin-top: 10px;
+}
