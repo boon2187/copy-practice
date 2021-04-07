@@ -78,3 +78,11 @@ body {
   width: 50%;
 }
 
+.left-part img {
+  width: 100%;
+}
+
+.right-part {
+  padding-left: 50px;
+  padding-right: 50px;
+}
